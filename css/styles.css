@@ -8,5 +8,8 @@ body{
 }
 
 main{
-    height:calc(100vh - 80px - 118px);
+    height:calc(100vh - 80px - 81px);
 }
+
+li > ul { display: none; }
+li li { margin-left: 10px; }
