@@ -1,0 +1,8 @@
+# Dependency directories
+node_modules/
+icons/
+package.json
+package-lock.json
+css/
+tailwind.config.js
+scss/
